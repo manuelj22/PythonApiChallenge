@@ -1,1 +1,1 @@
-Wkey=b8bac0f4a4f87f85c7df3b77c048539e
+WeatherAPIKey=2bdf895138e432eaee323cf32f58a57c
